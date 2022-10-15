@@ -1,5 +1,5 @@
 type Props = {
-  styles: string;
+  styles?: string;
 };
 
 const Button = ({ styles }: Props) => {
